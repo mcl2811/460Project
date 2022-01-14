@@ -1,0 +1,15 @@
+[GCRect]
+.3f, .3f, .9f // outline color
+-273f, -100f  // position
+140f, 135f   // width, height
+
+[GCRect]
+.9f, .3f, .3f // outline color
+-166f, -84f  // position
+212f, 135f   // width, height
+
+[GCRect]
+.7f, .1f, .8f // outline color
+66f, -74f  // position
+212f, 135f   // width, height
+
